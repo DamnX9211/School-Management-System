@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/addSchool/page": "app/addSchool/page.js",
+  "/api/placeholder-image/route": "app/api/placeholder-image/route.js",
+  "/page": "app/page.js",
+  "/showSchools/page": "app/showSchools/page.js",
+  "/api/schools/route": "app/api/schools/route.js"
+}

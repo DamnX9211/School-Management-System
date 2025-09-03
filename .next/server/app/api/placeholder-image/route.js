@@ -1,0 +1,8 @@
+"use strict";(()=>{var e={};e.id=521,e.ids=[521],e.modules={399:e=>{e.exports=require("next/dist/compiled/next-server/app-page.runtime.prod.js")},517:e=>{e.exports=require("next/dist/compiled/next-server/app-route.runtime.prod.js")},3830:(e,t,r)=>{r.r(t),r.d(t,{originalPathname:()=>m,patchFetch:()=>c,requestAsyncStorage:()=>d,routeModule:()=>l,serverHooks:()=>h,staticGenerationAsyncStorage:()=>u});var a={};r.r(a),r.d(a,{GET:()=>p});var o=r(9303),i=r(8716),n=r(670),s=r(7070);async function p(){let e=`
+    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+      <rect width="300" height="200" fill="#f0f0f0"/>
+      <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="#666" font-size="18" font-family="Arial">
+        🏫 School Image
+      </text>
+    </svg>
+  `;return new s.NextResponse(e,{headers:{"Content-Type":"image/svg+xml"}})}let l=new o.AppRouteRouteModule({definition:{kind:i.x.APP_ROUTE,page:"/api/placeholder-image/route",pathname:"/api/placeholder-image",filename:"route",bundlePath:"app/api/placeholder-image/route"},resolvedPagePath:"C:\\Users\\rohit\\OneDrive\\Desktop\\Project\\school-management-system\\app\\api\\placeholder-image\\route.js",nextConfigOutput:"",userland:a}),{requestAsyncStorage:d,staticGenerationAsyncStorage:u,serverHooks:h}=l,m="/api/placeholder-image/route";function c(){return(0,n.patchFetch)({serverHooks:h,staticGenerationAsyncStorage:u})}}};var t=require("../../../webpack-runtime.js");t.C(e);var r=e=>t(t.s=e),a=t.X(0,[276,972],()=>r(3830));module.exports=a})();
